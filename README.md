@@ -1,0 +1,1 @@
+Trait for automatically setting created_by_user_id and updated_by_user_id
